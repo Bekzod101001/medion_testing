@@ -157,7 +157,7 @@
 								Пройти тест еще раз
 								<img src="img/return.png" alt="">
 							</a>
-							<a href="https://merit.uz/ru/courses/view?id=1">Записаться на пробный урок!</a>
+							<a href="https://medionacademy.uz/">Записаться на пробный урок!</a>
 						</div>
 					</div>
 				</div>
